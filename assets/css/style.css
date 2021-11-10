@@ -90,3 +90,18 @@ h1 {
 p {
   color: green;
 }
+.container {
+  display: flex;
+  width: 80%;
+  margin: 100px auto;
+}
+.normal {
+  font-weight: 400;
+  padding: 40px;
+  border: 2px solid;
+}
+.bold {
+  font-weight: 700;
+  padding: 40px;
+  border: 2px solid;
+}
